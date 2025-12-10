@@ -1,7 +1,20 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Arthur Faugeron<br>Economics, Finance & Data Science Student<br>🎓 About Me Passionate and interdisciplinary student combining the analytical rigor of Economics and Finance with the technical power of Data Science. I am driven by the intersection of these fields, specifically looking to apply Machine Learning and advanced Data Visualization to solve complex economic problems.<br>🚀 Current Focus<br>Academic Project: Developing an educational web platform featuring dynamic content visualization to enhance learning experiences.<br>Learning Path: Deepening knowledge in Machine Learning and Data Visualization applied to Economics and Finance.<br>🛠️ Technical Stack<br>Data Analysis & Manipulation: Python, R, PHP, SQL.<br>Web Development: HTML, CSS, JavaScript.<br>💼 Availability<br>Seeking Internships: I am currently looking for internship opportunities where I can contribute my data analysis skills and web development knowledge to real-world projects.
+
+Arthur Faugeron
+<br>
+Economics, Finance & Data Science Student
+<br>
+🎓 About Me Passionate and interdisciplinary student combining the analytical rigor of Economics and Finance with the technical power of Data Science. I am driven by the intersection of these fields, specifically looking to apply Machine Learning and advanced Data Visualization to solve complex economic problems.
+<br>
+🚀 Current Focus<br>Academic Project: Developing an educational web platform featuring dynamic content visualization to enhance learning experiences.<br>Learning Path: Deepening knowledge in Machine Learning and Data Visualization applied to Economics and Finance.
+<br>
+🛠️ Technical Stack<br>Data Analysis & Manipulation: Python, R, PHP, SQL.<br>Web Development: HTML, CSS, JavaScript.
+<br>
+💼 Availability
+<br>
+Seeking Internships: I am currently looking for internship opportunities where I can contribute my data analysis skills and web development knowledge to real-world projects.
 
 
 ## 🌐 Socials:
