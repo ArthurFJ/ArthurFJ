@@ -8,7 +8,7 @@ Economics, Finance & Data Science Student
 <br>
 🎓 About Me Passionate and interdisciplinary student combining the analytical rigor of Economics and Finance with the technical power of Data Science. I am driven by the intersection of these fields, specifically looking to apply Machine Learning and advanced Data Visualization to solve complex economic problems.
 <br>
-🚀 Current Focus<br>Academic Project: Developing an educational web platform featuring dynamic content visualization to enhance learning experiences.<br>Learning Path: Deepening knowledge in Machine Learning and Data Visualization applied to Economics and Finance.
+🚀 Current Focus<br>Academic Project: Developing an educational repository featuring dynamic content visualization to enhance learning experiences.<br>Learning Path: Deepening knowledge in Machine Learning and Data Visualization applied to Economics and Finance. I'm looking forward to take this to a website level to share with everyone.
 <br>
 🛠️ Technical Stack<br>Data Analysis & Manipulation: Python, R, PHP, SQL.<br>Web Development: HTML, CSS, JavaScript.
 <br>
