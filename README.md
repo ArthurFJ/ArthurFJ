@@ -2,19 +2,32 @@
 
 # 💫 About Me:
 
-Arthur Faugeron
-<br>
+Arthur Lino Faugeron Jacono
+
+## Interested in:
 Economics, Finance & Data Science Student
-<br>
-🎓 About Me Passionate and interdisciplinary student combining the analytical rigor of Economics and Finance with the technical power of Data Science. I am driven by the intersection of these fields, specifically looking to apply Machine Learning and advanced Data Visualization to solve complex economic problems.
-<br>
-🚀 Current Focus<br>Academic Project: Developing an educational repository featuring dynamic content visualization to enhance learning experiences.<br>Learning Path: Deepening knowledge in Machine Learning and Data Visualization applied to Economics and Finance. I'm looking forward to take this to a website level to share with everyone.
-<br>
-🛠️ Technical Stack<br>Data Analysis & Manipulation: Python, R, PHP, SQL.<br>Web Development: HTML, CSS, JavaScript.
-<br>
+
+🎓 About Me:
+
+Passionate and interdisciplinary student combining the analytical rigor of Economics and Finance with the technical power of Data Science. I am driven by the intersection of these fields, specifically looking to apply Machine Learning and advanced Data Visualization to dive into economic problems, looking deep into market research, and create stunning data visualization. Even tho i'm just starting :sunglasses:
+
+🚀 Current Focus:
+
+- Academic Project: Developing an educational repository featuring dynamic content visualization to enhance learning experiences. I'm looking forward to take this to a website level to share with everyone. :v:
+- Learning Path: Deepening knowledge in Statistics, Math, Economics and Finance up to Machine Learning and Data Visualization.
+
+🛠️ Technical Stack:
+
+- Data Analysis & Manipulation: Python, R, PHP, SQL.
+- Web Development: HTML, CSS, JavaScript.
+
+👻 Hobbies
+
+I like to try things from the Game Development branch considering the crazy ideas I sometimes have. And love to play a little bit with Astronomy and Astrophysics, especially with all the data floating arround :grin:
+
 💼 Availability
-<br>
-Seeking Internships: I am currently looking for internship opportunities where I can contribute my data analysis skills and web development knowledge to real-world projects.
+
+Seeking Internships: I am currently looking for internship opportunities where I can learn data analysis skills and web development knowledge to real-world projects. I'm yet to start creating or contributing to real projects and works :sweat_smile:
 
 
 ## 🌐 Socials:
