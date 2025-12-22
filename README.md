@@ -10,7 +10,7 @@ Passionate and interdisciplinary student combining the analytical rigor of Econo
 
 🚀 Current Focus:
 
-- Academic Project: Developing an educational repositories for my *BestOfU* project featuring dynamic content visualization to enhance learning experiences. I'm looking forward to take this to a website level to share with everyone. :v:
+- Academic Project: Developing educational repositories for my *BestOfU* project featuring dynamic content visualization to enhance learning experiences and make progressive projects. I'm looking forward to take this to a website level to share with everyone. :v:
 - Learning Path: Deepening knowledge in Statistics, Math, Economics and Finance up to Machine Learning and Data Visualization.
 
 🛠️ Technical Stack:
