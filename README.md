@@ -20,11 +20,11 @@ Passionate and interdisciplinary student combining the analytical rigor of Econo
 
 👻 Hobbies
 
-I like to try things from the Game Development branch considering the crazy ideas I sometimes have. And love to play a little bit with Astronomy and Astrophysics, especially with all the data floating arround :grin:
+I like to try things like Astronomy and Astrophysics, especially with all the data floating arround :grin:, and also applying it to Finance and Economy.
 
 💼 Availability
 
-Seeking Internships: I am currently looking for internship opportunities where I can learn data analysis skills and web development knowledge to real-world projects. I'm yet to start creating or contributing to real projects and works :sweat_smile:
+Seeking Internships: I am currently looking for internship opportunities where I can learn data analysis skills and finance. I'm yet to start creating or contributing to real projects and works :sweat_smile:
 
 
 ## 🌐 Socials:
